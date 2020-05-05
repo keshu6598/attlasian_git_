@@ -1,2 +1,3 @@
 this is content of file 2 
 and this is also multiline 
+this line is for adding some text to the third commit 
