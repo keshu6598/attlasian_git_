@@ -1,2 +1,4 @@
 This is the text of file 1 and 
-it is multiline 
+it is multiline i am changing this line
+and adding this line in second commit
+ 
